@@ -1,4 +1,4 @@
-# PrepEdge AI
+# InterviewIQ AI
 
 <p align="center">
   <strong>AI-powered mock interview platform</strong> — personalized questions, instant scoring, voice analysis, and shareable PDF reports.

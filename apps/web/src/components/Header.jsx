@@ -194,7 +194,7 @@ export default function Header() {
             className="flex shrink-0 items-center gap-2 rounded-md text-[var(--color-foreground)] no-underline transition-opacity hover:opacity-80"
           >
             <LogoMark className="h-5 w-5" />
-            <span className="text-sm font-semibold tracking-tight">PrepEdge</span>
+            <span className="text-sm font-semibold tracking-tight">InterviewIQ AI</span>
           </Link>
 
           {/* Center nav — desktop */}

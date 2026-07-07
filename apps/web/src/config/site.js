@@ -1,10 +1,10 @@
 /**
  * Site-wide SEO and branding constants.
  */
-export const SITE_NAME = "PrepEdge AI";
+export const SITE_NAME = "InterviewIQ AI";
 
 export const DEFAULT_TITLE =
-  "PrepEdge AI — AI Mock Interviews with Instant Feedback";
+  "InterviewIQ AI — AI Mock Interviews with Instant Feedback";
 
 export const DEFAULT_DESCRIPTION =
   "Practice personalized mock interviews with AI scoring, voice analysis, and shareable PDF reports. Try a sample question free — no signup required.";

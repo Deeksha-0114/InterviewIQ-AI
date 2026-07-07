@@ -27,7 +27,7 @@ export const env = isTest
   PORT: port({ default: 5000 }),
   NODE_ENV: str({ choices: ["development", "production", "test"], default: "development" }),
   MONGO_URI: url(),
-  FIREBASE_SERVICE_ACCOUNT: str(),
+  FIREBASE_SERVICE_ACCOUNT: str({default:""}),
   GROQ_API_KEY: str({ default: "" }),
   GEMINI_API_KEY: str({ default: "" }),
   HUGGING_FACE_API_KEY: str({ default: "" }),

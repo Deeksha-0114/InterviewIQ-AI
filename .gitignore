@@ -31,4 +31,4 @@ tmp/
 **/firebaseServiceAccountKey.json
 
 .env
-
+apps/api/config/firebase-service-account.json
